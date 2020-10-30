@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/ico">
+        <file alias="snowing">ico1.ico</file>
+        <file alias="logo">logo.png</file>
+    </qresource>
+</RCC>
